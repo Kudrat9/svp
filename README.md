@@ -7,7 +7,7 @@ Note that you may want the following python environment for running the SVP:
     PyYAML 3.1.3
     Pypubsub 4.0.0
     XlsxWriter 1.1.0
-    packports.functools-lru-cache 1.5
+    backports.functools_lru_cache 1.5
     cycler 0.10.0
     enum34 1.1.6
     et-xmlfile 1.0.1
